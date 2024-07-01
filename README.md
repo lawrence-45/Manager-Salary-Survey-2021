@@ -1,11 +1,12 @@
 # Manager-Salary-Survey-2021-Analysis
 ## Overview
-Data cleaning and analysis of real-life dataset using SQL. This project showcases my SQL skills.
+Data cleaning and analysis of real-life dataset using SQL.  
+This project showcases my SQL skills.
 
 ## Dataset Overview
-The dataset includes columns like timestamp, age range, work industry, job title, job_title_additional_context, annual_salary, additional_monetary_compensation, currency, Other_currency, income_additional_context, work_country, works_in_us_state, work_city, professional_work_experience, professional_work_experience_field, level_of_education, gender, race. 
-Individuals from different countries and regions filled these columns, making the dataset messy and less useable.
-Link to dataset 
+The dataset includes columns like timestamp, age range, work industry, job title, job_title_additional_context, annual_salary, additional_monetary_compensation, currency, Other_currency, income_additional_context, work_country, works_in_us_state, work_city, professional_work_experience, professional_work_experience_field, level_of_education, gender, race.  
+Individuals from different countries and regions filled these columns, making the dataset messy and less useable.  
+To download the dataset, Click [Here](https://eyowhite.com/wp-content/uploads/2024/06/Data-cleaning-Salary-survey.zip)
 
 ## Key Questions To Be Answered
 * Which industry pays the most?
@@ -27,8 +28,8 @@ Link to dataset
 * Windows Function etc.
 
 ## Data Cleaning 
-This was done fully using SQL, duplicating the initial dataset, and working my way through the dataset.
-To see the full SQL codes used in the cleaning process click here 
+This was done fully using SQL, duplicating the initial dataset, and working my way through the dataset.  
+To see the full SQL codes used in the cleaning process Click [Here](manager_salary_survey_2021_cleaning_and_analysis_file) 
 
 ## Data Analysis 
 The questions were answered using SQL queries, from the analysis of the already-cleaned dataset, we were able to deduce the following
