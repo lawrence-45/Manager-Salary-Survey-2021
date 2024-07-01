@@ -29,7 +29,7 @@ To download the dataset, Click [Here](https://eyowhite.com/wp-content/uploads/20
 
 ## Data Cleaning 
 This was done fully using SQL, duplicating the initial dataset, and working my way through the dataset.  
-To see the full SQL codes used in the cleaning process Click [Here]([manager_salary_survey_2021_cleaning_and_analysis_file](https://github.com/lawrence-45/Manager-Salary-Survey-2021/blob/main/manager_salary_survey_2021_cleaning_and_analysis_file.sql)) 
+To see the full SQL codes used in the cleaning process Click [Here]([manager_salary_survey_2021_cleaning_and_analysis_file](https://github.com/lawrence-45/Manager-Salary-Survey-2021/blob/main/manager_salary_survey_2021_cleaning_and_analysis_file.sql))
 
 ## Data Analysis 
 The questions were answered using SQL queries, from the analysis of the already-cleaned dataset, we were able to deduce the following
