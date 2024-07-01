@@ -1305,5 +1305,6 @@ GROUP BY  race,level_of_education
 ORDER BY  race,level_of_education,avg_sal DESC;
 
 
-
+SELECT *
+FROM manager_sal_surv_2021_copy_1
 
