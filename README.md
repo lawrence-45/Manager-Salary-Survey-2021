@@ -1,4 +1,5 @@
 # Manager-Salary-Survey-2021-Analysis
+![](banner.jpg)
 ## Overview
 Data cleaning and analysis of real-life dataset using SQL.  
 This project showcases my SQL skills.
