@@ -5,7 +5,7 @@ Data cleaning and analysis of real-life dataset using SQL.
 This project showcases my SQL skills.
 
 ## Dataset Overview
-The dataset includes columns like timestamp, age range, work industry, job title, job_title_additional_context, annual_salary, additional_monetary_compensation, currency, Other_currency, income_additional_context, work_country, works_in_us_state, work_city, professional_work_experience, professional_work_experience_field, level_of_education, gender, race.  
+The dataset includes these columns, timestamp, age range, work industry, job title, job_title_additional_context, annual_salary, additional_monetary_compensation, currency, Other_currency, income_additional_context, work_country, works_in_us_state, work_city, professional_work_experience, professional_work_experience_field, level_of_education, gender, race.  
 Individuals from different countries and regions filled these columns, making the dataset messy and less useable.  
 To download the dataset, Click [Here](https://eyowhite.com/wp-content/uploads/2024/06/Data-cleaning-Salary-survey.zip)
 
